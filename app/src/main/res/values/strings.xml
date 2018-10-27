@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">F1rst</string>
+    <string name="input_hint">Please, input the text</string>
+    <string name="showButtonLabel">Show!</string>
+</resources>
